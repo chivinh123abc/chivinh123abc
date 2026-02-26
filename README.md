@@ -23,5 +23,41 @@
 
 ## 🌍 Connect with me
 
-- Facebook: [your-link-here  ](https://www.facebook.com/chivinh.luong.775/);
+- Facebook: [](https://www.facebook.com/chivinh.luong.775/);
 - LinkedIn: [](https://www.linkedin.com/in/chi-vinh-luong-64089435b/)
+- Leetcode: [](https://leetcode.com/u/Luongchivinh2005/)
+
+## 🚀 Languages, Tools and Others:
+
+> Note: The technologies below are what I have learned or am currently learning.  
+> They do not represent my skill level, but my learning journey.
+
+### 💻 Languages:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,python" />
+</p>
+
+---
+
+### 🛠 Tools and Others:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,spring,mysql,postgres,figma,docker" />
+</p>
+
+---
+
+## 🔥 Github Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luongchivinh2005&show_icons=true&theme=radical" />
+</p>
