@@ -23,7 +23,7 @@
 
 ## 🌍 Connect with me
 
-<a>
+<a href="[https://facebook.com/tenfacebookcuaban](https://www.facebook.com/chivinh.luong.775/)" target="_blank">
   <img src="https://skillicons.dev/icons?i=facebook" />
 </a>
 - LinkedIn: [](https://www.linkedin.com/in/chi-vinh-luong-64089435b/)
