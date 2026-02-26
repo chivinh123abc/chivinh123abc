@@ -26,17 +26,15 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" 
        width="48" height="48" />
 </a>
-<a href="https://leetcode.com/u/Luongchivinh2005/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" 
-       width="48" height="48" />
-</a>
 <a href="https://www.linkedin.com/in/chi-vinh-luong-64089435b/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" 
        width="48" height="48" />
 </a>
+<a href="https://leetcode.com/u/Luongchivinh2005/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" 
+       width="48" height="48" />
+</a>
 
-- LinkedIn: [](https://www.linkedin.com/in/chi-vinh-luong-64089435b/)
-- Leetcode: [](https://leetcode.com/u/Luongchivinh2005/)
 
 ## 🚀 Languages, Tools and Others:
 
