@@ -53,6 +53,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chivinh123abc&theme=radical&border_radius=10" />
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chivinh123abc" alt="GitHub Streak" /></a>
 
 ---
