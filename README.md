@@ -17,13 +17,15 @@
 - 🎓 I'm studying Software Technology  
 - 💻 I'm learning Java and Backend Development  
 - 🤝 I'm looking to collaborate on Open Source projects  
-- 📫 How to reach me: your-email@gmail.com  
+- 📫 How to reach me: mail.lcvinh@gmail.com  
 
 ---
 
 ## 🌍 Connect with me
 
-- Facebook: [](https://www.facebook.com/chivinh.luong.775/);
+<a>
+  <img src="https://skillicons.dev/icons?i=facebook" />
+</a>
 - LinkedIn: [](https://www.linkedin.com/in/chi-vinh-luong-64089435b/)
 - Leetcode: [](https://leetcode.com/u/Luongchivinh2005/)
 
