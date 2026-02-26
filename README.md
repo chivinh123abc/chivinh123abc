@@ -59,5 +59,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chivinh123abc&show_icons=true&theme=radical" />
+  ![Vinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chivinh123abc&show_icons=true&theme=radical&cache_seconds=30)
 </p>
