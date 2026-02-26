@@ -27,11 +27,11 @@
        width="48" height="48" />
 </a>
 <a href="https://www.linkedin.com/in/chi-vinh-luong-64089435b/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" 
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
        width="48" height="48" />
 </a>
 <a href="https://leetcode.com/u/Luongchivinh2005/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" 
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" 
        width="48" height="48" />
 </a>
 
