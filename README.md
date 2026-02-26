@@ -35,7 +35,7 @@
 ### 💻 Languages:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,python,nodejs,reactjs" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,python,nodejs,react" />
 </p>
 
 ---
