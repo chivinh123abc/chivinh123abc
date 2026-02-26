@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Luong Chi Vinh (aka Ryan), a beginner developer from Ho Chi Minh City.
+I was born in An Giang province and grew up there.
+Now i'm living in Ho Chi Minh city and study here
 
 <!--
 **chivinh123abc/chivinh123abc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
