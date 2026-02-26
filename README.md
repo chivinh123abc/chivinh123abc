@@ -51,8 +51,7 @@
 ## 🔥 Github Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=chivinh123abc&theme=radical&border_radius=10" />
 </p>
 
 ---
-![Vinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chivinh123abc&show_icons=true&theme=radical&cache_seconds=30)
